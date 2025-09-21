@@ -119,7 +119,7 @@ Verdicts:
 
 ## 🤝 Contributors
 
-- **Rahul Seervi**  
+- **Rahul Seervi(Frontend/UI Developer)**  
 - **Ayush Thakur**  
 - **Zian Surani** *(Lead Developer)*  
 
